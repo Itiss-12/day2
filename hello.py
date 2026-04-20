@@ -1,1 +1,1 @@
-echo "BOLOJEE AND PHARDEEN"
+print ("BOLOJEE AND PHARDEEN in d2")
