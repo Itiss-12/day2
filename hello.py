@@ -1,1 +1,1 @@
-echo "BOLOJEE AND PHARDEEN"
+print ("hellloo d1")
